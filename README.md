@@ -42,7 +42,7 @@ O Hermes tem limitacao! No momento ele so atende ao e-mail com os seguintes camp
 
 ## 👨‍💻 Créditos
 
-**Desenvolvido por:** Kauan Dev (ipseitycode)
+**Desenvolvido por:** Cauan Dev (ipseitycode)
 
 Este projeto foi desenvolvido do zero e está sendo disponibilizado para a comunidade.
 
